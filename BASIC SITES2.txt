@@ -1,0 +1,49 @@
+https://michalsnik.github.io/aos/   ------->Animation designs
+
+https://books.goalkicker.com/    ------------>courses
+
+https://icons8.com/line-awesome     ------->Icon designs
+
+https://fonts.google.com/specimen/Poppins ---->Google fonts
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+</style>
+
+CSS CODE:
+
+font-family: 'Poppins', sans-serif;
+
+
+Google map :https://www.embed-map.com/
+
+https://quillbot.com/    ------------>grammatial teams
+
+https://app.wordtune.com/editor/  ---->words tuner
+
+ryter.ai,copy.ai ----->mail content
+
+https://mui.com/material-ui/getting-started/overview/ ------>css site only for react
+
+https://tailwindcss.com/docs/installation   --------->css site only for react
+
+Anton Francis Jeejo =====utube
+
+https://www.framer.com/motion/transition/-------->EXternal libreir react animation
+
+https://dribbble.com/search/portfolio ----->UI templates
+
+https://imgix.com/solutions/compression-and-performance------>Background templetes
+
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial-------Nodejs Basics in >VSCODE 
+
+
+https://github.com/suriyasingaravel
+
+linkedin.com/in/gowtham-selvaraj-a77392180
+
+https://ui-lib.com/downloads/uko-lite-react-dashboard/---->react templates
+
+https://github.com/airbnb/javascript/tree/master/react#naming----->react code Structure
+
+

@@ -1,0 +1,14 @@
+https://michalsnik.github.io/aos/   ------->Animation designs
+
+https://icons8.com/line-awesome     ------->Icon designs
+
+https://fonts.google.com/specimen/Poppins ---->Google fonts
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+</style>
+
+CSS CODE:
+
+font-family: 'Poppins', sans-serif;
+
