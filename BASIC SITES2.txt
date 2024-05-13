@@ -46,4 +46,4 @@ https://ui-lib.com/downloads/uko-lite-react-dashboard/---->react templates
 
 https://github.com/airbnb/javascript/tree/master/react#naming----->react code Structure
 
-
+https://medium.com/@tanmanydeo321/learn-to-debug-javascript-using-chrome-debugger-f3f7b3b94469#:~:text=Open%20the%20browser%20menu%20by,on%20the%20%E2%80%9CInspect%E2%80%9D%20option--->frontend debugger 
